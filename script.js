@@ -1,4 +1,4 @@
-
+<script> 
 
 // === ПАРАЛЛАКС ГЛАЗ ===
 document.addEventListener('mousemove', function(event) {
@@ -633,3 +633,4 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
+</script>
